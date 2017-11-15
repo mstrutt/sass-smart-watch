@@ -1,0 +1,19 @@
+{
+  "name": "sass-smart-watch",
+  "version": "0.0.1",
+  "description": "Watch and build sass files based on a tree of their dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mstrutt",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.8",
+    "lodash": "^4.17.4",
+    "node-sass": "^4.6.1",
+    "sass-graph": "^2.2.4"
+  }
+}
